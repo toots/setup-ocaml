@@ -11,7 +11,6 @@ export async function installUnixSystemPackages() {
         "--yes",
         "install",
         "bubblewrap",
-        "darcs",
         "g++-multilib",
         "gcc-multilib",
         "mercurial",
